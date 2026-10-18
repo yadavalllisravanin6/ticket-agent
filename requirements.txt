@@ -1,0 +1,5 @@
+langgraph==0.2.39
+langchain-groq==0.2.0
+langchain-core==0.3.15
+fastapi==0.115.0
+uvicorn==0.31.0
