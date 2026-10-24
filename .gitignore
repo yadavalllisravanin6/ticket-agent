@@ -1,0 +1,10 @@
+# secrets
+.env
+
+# local databases (recreated by db.py / the app)
+*.db
+
+# python
+venv/
+__pycache__/
+.pytest_cache/
